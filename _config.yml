@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "ko-KR"
 title                    : "귀차니즘러들을 위한 쇼핑 도우미"
-title_separator          : "-"
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : ""
+description              : ""
 url                      : "https://easyshopp.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : ""
   email            :
   links:
     - label: "Email"
