@@ -1,9 +1,10 @@
 ---
-title: "2020년 12월 바쿠치올 추천 4선"
+title: "2020년 12월 바쿠치올 제품 추천 4선"
 date: 2020-12-27 13:57:21
 categories: 바쿠치올
 ---
 
+바쿠치올은 노화 방지 세럼과 크림에서 발견되는 성분인 레티놀의 대안입니당.
 
 # 1위 이너프 프로젝트 수분 크림, 100ml, 1개
 ![상품사진](https://static.coupangcdn.com/image/retail/images/71840356811067-76f717a3-6338-4c47-8d55-e4e65e1d6f99.jpg)  
@@ -29,3 +30,5 @@ categories: 바쿠치올
 [상품 보러가기](https://link.coupang.com/re/AFFSDP?lptag=AF8330091&pageKey=1547171246&itemId=2648658624&vendorItemId=70639402921&traceid=V0-153-42bf7bb12b662a38)  
 
 --
+
+첨부된 링크를 사용하여 구매하시면 글쓴이는 아주 소소하고 감사한 커미션을 받게 됨.
