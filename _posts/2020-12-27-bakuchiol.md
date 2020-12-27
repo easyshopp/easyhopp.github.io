@@ -1,5 +1,5 @@
 ---
-title: "2020년 12월 바쿠치올 추천 5선"
+title: "2020년 12월 바쿠치올 추천 4선"
 date: 2020-12-27 13:57:21
 categories: 바쿠치올
 ---
@@ -27,11 +27,5 @@ categories: 바쿠치올
 ![상품사진](https://static.coupangcdn.com/image/vendor_inventory/0491/f5a42a2ab830c09dfdae439dbaabc9d6d360f163e14447a0c547f33fb7ed.jpg)  
 가격: 24000원  
 [상품 보러가기](https://link.coupang.com/re/AFFSDP?lptag=AF8330091&pageKey=1547171246&itemId=2648658624&vendorItemId=70639402921&traceid=V0-153-42bf7bb12b662a38)  
-
---
-# 5위 [보타니티] 바쿠치올 스팟 크림 30ml, 없음, 상세설명 참조
-![상품사진](https://static.coupangcdn.com/image/vendor_inventory/3da1/3ca0a867b04e807f0bb5eb944681fa040ae1db4836ba5d45f890e2c3a082.jpg)  
-가격: 21600원  
-[상품 보러가기](https://link.coupang.com/re/AFFSDP?lptag=AF8330091&pageKey=1571476249&itemId=2687223481&vendorItemId=70677696253&traceid=V0-153-1a461b148438d1fa)  
 
 --
